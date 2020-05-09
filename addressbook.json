@@ -1,0 +1,13 @@
+{
+    "personDetail": [
+        {
+            "fristname": "alla",
+            "lastname": "manikanta",
+            "address": "lakkavarm",
+            "city": "eluru",
+            "state": "AP",
+            "pin": "534451",
+            "mobilenumber": "7730082525"
+        }
+    ]
+}
